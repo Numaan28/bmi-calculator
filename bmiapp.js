@@ -35,3 +35,4 @@
     output.textContent = `Your BMI is ${result} (${category})`;
   });
 
+// works smoothly
